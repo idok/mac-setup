@@ -1,3 +1,4 @@
 # mac-setup
 
-defaults write com.apple.screencapture location "/path/to/new/location"
+mkdir ~/Screenshots
+defaults write com.apple.screencapture location ~/Screenshots
